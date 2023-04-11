@@ -1,0 +1,13 @@
+{
+  "defaultTitle": "开卓首页",
+  "usingComponents": {
+    "ad-swiper": "../../components/ad-swiper/index",
+    "header-search": "./components/HeaderSearch",
+    "message-comp": "./components/MessageComp",
+    "menus-comp": "./components/MenusComp",
+    "menus-two": "./components/MenusTwo",
+    "recommend-goods": "./components/RecommendGoods",
+    "event-reservation": "./components/EventReservation",
+    "questions-and-answers": "./components/QuestionsAndAnswers"
+  }
+}

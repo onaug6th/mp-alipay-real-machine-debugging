@@ -1,0 +1,12 @@
+{
+  "defaultTitle": "商品详情",
+  "usingComponents": {
+    "product-detail-swiper": "../../components/product-detail-swiper/index",
+    "attr-window": "../../components/attr-window/index",
+    "goods-info": "./components/GoodsInfo",
+    "goods-content": "./components/GoodsContent",
+    "detail-footer-bar": "./components/DetailFooterBar",
+    "goods-curriculum": "./components/GoodsCurriculum",
+    "goods-teacher": "./components/GoodsTeacher"
+  }
+}

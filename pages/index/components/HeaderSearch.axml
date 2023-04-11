@@ -1,0 +1,1 @@
+<view class="mp-header" style="{{'padding-top:' + a}}"><view class="search-box"><view class="search-wrapper acea-row row-middle"><navigator url="/pages/goods/goods-search/index" class="input acea-row row-middle fillet" hover-class="none"><text class="iconfont icon-search"></text> 搜索开卓好物，提高生活品质</navigator></view></view></view>

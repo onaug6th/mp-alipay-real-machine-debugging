@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "活动中心",
+  "pullRefresh": false,
+  "usingComponents": {
+    "calendar": "../../components/calendar/calendar"
+  }
+}

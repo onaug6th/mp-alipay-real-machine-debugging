@@ -1,0 +1,86 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods/index",
+    "pages/goods-cate/index",
+    "pages/goods/goodsDetail",
+    "pages/shopping-cart/index",
+    "pages/user/index",
+    "pages/discover-home/index"
+  ],
+  "subPackages": [
+    {
+      "root": "userA",
+      "pages": [
+        "pages/orderList/index"
+      ]
+    },
+    {
+      "root": "userB",
+      "pages": [
+        "pages/orderList/index"
+      ]
+    },
+    {
+      "root": "userC",
+      "pages": [
+        "pages/orderList/index"
+      ]
+    },
+    {
+      "root": "temp",
+      "pages": [
+        "pages/orderList/index"
+      ]
+    },
+    {
+      "root": "pages/discover",
+      "pages": [
+        "activity"
+      ]
+    },
+    {
+      "root": "pages/my",
+      "pages": [
+        "memberCenter"
+      ]
+    }
+  ],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#1aa86c",
+    "backgroundColor": "#1aa86c"
+  },
+  "tabBar": {
+    "textColor": "#1AA86C",
+    "selectedColor": "#1AA86C",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/images/footer-bar-index-icon.png",
+        "activeIcon": "static/images/footer-bar-index-icon-on.png"
+      },
+      {
+        "pagePath": "pages/goods/index",
+        "name": "商城",
+        "icon": "static/images/footer-bar-goods-icon.png",
+        "activeIcon": "static/images/footer-bar-goods-icon-on.png"
+      },
+      {
+        "pagePath": "pages/discover-home/index",
+        "name": "发现",
+        "icon": "static/images/footer-bar-discover-icon.png",
+        "activeIcon": "static/images/footer-bar-discover-icon-on.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "name": "我的",
+        "icon": "static/images/footer-bar-user-icon.png",
+        "activeIcon": "static/images/footer-bar-user-icon-on.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

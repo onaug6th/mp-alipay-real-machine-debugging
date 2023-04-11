@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "开卓商城",
+  "usingComponents": {
+    "ad-swiper": "../../components/ad-swiper/index",
+    "product-list-grid": "../../components/product-list-grid/index",
+    "goods-list-column-style": "./components/GoodsListColumnStyle"
+  }
+}

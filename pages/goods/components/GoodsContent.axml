@@ -1,0 +1,1 @@
+<view class="content-wrap"><view class="good-detail-title"><view class="title"><text>图文详情</text></view></view><view class="good-detail-content"><rich-text nodes="{{a}}"></rich-text></view></view>
